@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ossw_lcd)(type Legacy)(uri /home/carter/dev/projects/tmp/ossw/pcb/lcd/prototype/rev-1.1/ossw_lcd.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ossw_lcd)(type KiCad)(uri ${KIPRJMOD}/ossw_lcd.pretty)(options "")(descr ""))
+)

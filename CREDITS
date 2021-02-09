@@ -1,0 +1,8 @@
+Hardware design and firmware
+ * binarysolo
+
+Menu code adapted from Open Source Scan Converter (OSSC)
+ * marqs
+
+Infrared remote decoding logic adapted from Arduino-IRremote
+ * Ken Shirriff, Rafi Khan, Armin Joachimsmeyer

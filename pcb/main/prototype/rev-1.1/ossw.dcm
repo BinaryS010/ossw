@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMD21J18A-AUT
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, TQFP64
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAML21J17B-AUT
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 128K Flash, 16K SRAM, TQFP64
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAML21J18B-AUT
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP64
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP BSS83P
+D -0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F http://www.farnell.com/datasheets/1835997.pdf
+$ENDCMP
+#
+$CMP BSS84
+D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F http://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+$ENDCMP
+#
+$CMP INA250
+D Current/power/voltage monitor with Integrated 2mΩ Shunt Resistor, 2.7V - 5.5V, I2C, TSSOP-16
+K Current/power/voltage monitor
+F http://www.ti.com/lit/ds/symlink/ina250.pdf
+$ENDCMP
+#
+$CMP IRLML6402
+D -3.7A Id, -20V Vds, P-channel MOSFET, 65mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c
+$ENDCMP
+#
+$CMP LM117_TO3
+D 1,5A 35V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 1,5A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM117_TO3_copy
+D 1,5A 35V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 1,5A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM150_TO3
+D 3A 33V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 3A Positive
+F http://www.ti.com/lit/ds/symlink/lm350a.pdf
+$ENDCMP
+#
+$CMP LM150_TO3_copy
+D 3A 33V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 3A Positive
+F http://www.ti.com/lit/ds/symlink/lm350a.pdf
+$ENDCMP
+#
+$CMP LM317_SOT223
+D 1.5A 35V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 1.5A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM350_TO3
+D 3A 33V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 3A Positive
+F http://www.ti.com/lit/ds/symlink/lm350a.pdf
+$ENDCMP
+#
+$CMP LM350_TO3_copy
+D 3A 33V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 3A Positive
+F http://www.ti.com/lit/ds/symlink/lm350a.pdf
+$ENDCMP
+#
+$CMP NCP1117STXXT3G
+D 1.5A 35V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 1.5A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP NTR2101P
+D -3.7A Id, -8V Vds, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/NTR2101P-D.PDF
+$ENDCMP
+#
+$CMP SI2323
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP SN74CBT3244
+D 8-bit bidirectional voltage level translator with auto-direction sensing USON package
+K bidirectional voltage level translator
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
+$CMP Si2319CDS
+D -4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/66709/si2319cd.pdf
+$ENDCMP
+#
+$CMP VP0610T
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+#End Doc Library
